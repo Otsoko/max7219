@@ -1,4 +1,4 @@
-## MAX7219 ##
+# MAX7219 #
 
 Arduino program that uses a MAX7219 module.
 
